@@ -1,5 +1,5 @@
-#include<iostream>
-#include<conio.h>
+#include<iostream>// input output stream
+#include<conio.h>// getch
 #include<fstream>
 #include<windows.h>
 using namespace std;
